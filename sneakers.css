@@ -182,8 +182,8 @@ section{
     }
     .exit{
         display: block;
-        position: relative;
-        left: 350px;
+        position: absolute;
+        right: 5px;;
     }
 
 }
