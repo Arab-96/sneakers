@@ -131,7 +131,7 @@ section{
     .list{
         display: none;
         flex-direction: column !important;
-        position: absolute;
+        position: fixed;
         top: 0px;
         left:0px;
         background-color: white;
